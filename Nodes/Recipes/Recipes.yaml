@@ -39,7 +39,7 @@ Children:
   - Class: Reference
     Target: ns=8;i=60
     Direction: Forward
-- Name: RecipeSchema2
+- Name: RecipeSchema3
   Type: RecipeSchema
   Children:
   - Name: Root
