@@ -1,7 +1,3 @@
 Name: Users
 Id: g=19b2fd8f9141bab2bd9af3ec11e42be4
 Type: FolderType
-Children:
-- Name: User1
-  Id: g=68ff718c4af33058c9700be149af2874
-  Type: UserType
